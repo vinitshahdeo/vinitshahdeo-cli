@@ -46,14 +46,16 @@ The global binary is exposed as `vinitshahdeo`.
 `vinitshahdeo [options]`
 
 #### Options
-	•	--open=site|linkedin|github|twitter – open a destination directly and exit
-	•	--no-anim – skip the animated banner (handy on slow terminals/SSH)
-	•	-h, --help – show help
+
+- `--open=site|linkedin|github|twitter` – open a destination directly and exit
+- `--no-anim` – skip the animated banner (handy on slow terminals/SSH)
+- `-h`, `--help` – show help
 
 #### Examples
 
-vinitshahdeo --open=github
-vinitshahdeo --no-anim
+- `vinitshahdeo --open=github`
+
+- `vinitshahdeo --no-anim`
 
 > [!TIP]
 > Using npx? Replace vinitshahdeo with `npx vinitshahdeo`.
@@ -62,22 +64,19 @@ vinitshahdeo --no-anim
 ## 🧪 Non-interactive / CI mode
 
 When there’s no interactive TTY (e.g., CI pipelines or piped output), the CLI:
-	•	Prints Quick Links to the console
-	•	Exits with code 0
+- Prints Quick Links to the console
+- Exits with code 0
 
 ## 🎨 Colors
 
 Respects common color environment variables:
-	•	NO_COLOR – disable colors
-	•	FORCE_COLOR=1 – force colors on
+- `NO_COLOR` – disable colors
+- `FORCE_COLOR=1` – force colors on
 
 ## 🐞 Troubleshooting
-	•	“Couldn’t open automatically”
-Don’t worry—we print the URL so you can copy/paste it.
-	•	Weird card wrapping
-Narrow terminals may wrap the profile card. Resize the window or zoom out, or just use --no-anim for a simpler experience.
-	•	Signals (Ctrl+C, CI timeouts)
-The CLI exits cleanly and returns 0 for graceful stops.
+- “Couldn’t open automatically” — Don’t worry—we print the URL so you can copy/paste it.
+- Weird card wrapping — Narrow terminals may wrap the profile card. Resize the window or zoom out, or just use --no-anim for a simpler experience.
+- Signals (Ctrl+C, CI timeouts) — The CLI exits cleanly and returns 0 for graceful stops.
 
 
 ## 🔒 License
