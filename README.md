@@ -1,11 +1,10 @@
-# Vinit Shahdeo — Interactive 
+# Vinit Shahdeo — Interactive CLI Portfolio 🚀
 
 ```bash
 npx vinitshahdeo
 ```
 
-An interactive, delightful CLI experience to explore my digital world—right from your terminal! 🚀
-Enjoy a vibrant animated banner, a dynamic profile card, and instant access to all my key links. Whether you’re in a fancy terminal or a CI pipeline, you’ll get smart fallbacks and shortcuts for a seamless journey.
+**An interactive, delightful CLI experience to explore my digital world—right from your terminal! 🚀**
 
 ![vinitshahdeo-cli demo](./assets/vinitshahdeo-cli-demo.gif)
 
