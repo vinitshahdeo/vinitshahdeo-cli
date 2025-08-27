@@ -28,7 +28,12 @@ npx vinitshahdeo
 npm i -g vinitshahdeo
 ```
 
-The global binary is exposed as `vinitshahdeo`.
+The global binary is exposed as `vinitshahdeo` and now you can run as a command:
+
+```bash
+vinitshahdeo
+```
+
 
 
 ### 🧭 Usage
