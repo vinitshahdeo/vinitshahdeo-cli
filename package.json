@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A tiny, friendly terminal tour for Vinit Shahdeo — with animations, interactive menu, and smart fallbacks.",
   "bin": {
-    "vinitshahdeo": "./index.js"
+    "vinitshahdeo": "./cli/index.js"
   },
   "type": "commonjs",
   "main": "cli/index.js",
