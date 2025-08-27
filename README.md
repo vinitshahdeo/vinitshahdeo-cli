@@ -1,8 +1,13 @@
-# Vinit Shahdeo — Interactive CLI Portfolio <br/> `npx vinitshahdeo`
 
-**An interactive, delightful CLI experience to explore my digital world—right from your terminal! 🚀**
+<div align="center">
 
-![vinitshahdeo-cli demo](./assets/vinitshahdeo-cli-demo.gif)
+<h1>Vinit Shahdeo — Interactive CLI Portfolio <br/> <code>npx vinitshahdeo</code></h1>
+
+<strong>An interactive, delightful CLI experience to explore my digital world—right from your terminal! 🚀</strong>
+
+<img src="./assets/vinitshahdeo-cli-demo.gif" alt="vinitshahdeo-cli demo" />
+
+</div>
 
 
 ## 🔧 Requirements
