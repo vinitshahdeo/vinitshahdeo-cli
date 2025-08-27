@@ -34,7 +34,7 @@ The global binary is exposed as `vinitshahdeo` and now you can run as a command:
 vinitshahdeo
 ```
 
-### 🧭 Usage
+### Usage
 
 `vinitshahdeo [options]`
 
