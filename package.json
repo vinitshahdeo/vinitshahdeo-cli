@@ -1,0 +1,54 @@
+{
+  "name": "vinitshahdeo",
+  "version": "1.0.0",
+  "description": "A tiny, friendly terminal tour for Vinit Shahdeo — with animations, interactive menu, and smart fallbacks.",
+  "bin": {
+    "vinitshahdeo": "./index.js"
+  },
+  "type": "commonjs",
+  "main": "cli/index.js",
+  "files": [
+    "cli/index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "start": "node cli/index.js",
+    "prepare": "node -e \"console.log('Ready to publish ✅')\""
+  },
+  "keywords": [
+    "cli",
+    "terminal",
+    "interactive",
+    "inquirer",
+    "chalk",
+    "ora",
+    "developer-portfolio",
+    "vinit-shahdeo"
+  ],
+  "author": {
+    "name": "Vinit Shahdeo",
+    "url": "https://vinitshahdeo.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinitshahdeo/vinitshahdeo-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vinitshahdeo/vinitshahdeo-cli/issues"
+  },
+  "homepage": "https://github.com/vinitshahdeo/vinitshahdeo-cli#readme",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2",
+    "cli-spinners": "^2.9.2",
+    "figlet": "^1.7.0",
+    "inquirer": "^9.2.7",
+    "open": "^10.2.0",
+    "ora": "^6.3.1"
+  }
+}
