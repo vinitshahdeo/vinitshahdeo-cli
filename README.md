@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h1>Vinit Shahdeo — Interactive CLI Portfolio <br/> <code>npx vinitshahdeo</code></h1>
+<h1><code>npx vinitshahdeo</code><br/>Interactive CLI Portfolio</h1>
 
 <strong>An interactive, delightful CLI experience to explore my digital world—right from your terminal! 🚀</strong>
 
