@@ -1,6 +1,6 @@
 {
   "name": "vinitshahdeo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A tiny, friendly terminal tour for Vinit Shahdeo — with animations, interactive menu, and smart fallbacks.",
   "bin": {
     "vinitshahdeo": "./cli/index.js"
