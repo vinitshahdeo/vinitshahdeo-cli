@@ -4,8 +4,8 @@
 <h1><code>npx vinitshahdeo</code><br/>Interactive CLI Portfolio</h1>
 
 <strong>An interactive, delightful CLI experience to explore my digital world—right from your terminal! 🚀</strong><br/>
-<img src="https://img.shields.io/badge/$_npx_vinitshahdeo-black" />
-<img src="https://img.shields.io/npm/v/vinitshahdeo.svg?color=green&logo=npm" />
+<img src="https://img.shields.io/badge/$_npx_vinitshahdeo-yellow" />
+<img src="https://img.shields.io/npm/v/vinitshahdeo.svg?color=red&logo=npm" />
 <img src="https://img.shields.io/github/license/vinitshahdeo/vinitshahdeo-cli.svg" />
 <br/>
 
