@@ -1,12 +1,11 @@
 # Vinit Shahdeo — Interactive CLI
 
-A tiny, friendly terminal tour that launches Vinit’s links with flair.  
-It features an animated banner, a responsive profile card, smart fallbacks for CI/non-TTY, and quick flags to jump straight to your destination.
+An interactive, delightful CLI experience to explore my digital world—right from your terminal! 🚀
+Enjoy a vibrant animated banner, a dynamic profile card, and instant access to all my key links. Whether you’re in a fancy terminal or a CI pipeline, you’ll get smart fallbacks and shortcuts for a seamless journey.
 
 ```bash
 npx vinitshahdeo
 ```
-
 
 ## ✨ Features
 
@@ -75,8 +74,8 @@ Respects common color environment variables:
 
 ## 🐞 Troubleshooting
 - “Couldn’t open automatically” — Don’t worry—we print the URL so you can copy/paste it.
-- Weird card wrapping — Narrow terminals may wrap the profile card. Resize the window or zoom out, or just use --no-anim for a simpler experience.
-- Signals (Ctrl+C, CI timeouts) — The CLI exits cleanly and returns 0 for graceful stops.
+- Weird card wrapping — Narrow terminals may wrap the profile card. Resize the window or zoom out, or just use `--no-anim` for a simpler experience.
+- Signals (`Ctrl+C`, CI timeouts) — The CLI exits cleanly and returns 0 for graceful stops.
 
 
 ## 🔒 License
