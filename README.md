@@ -1,8 +1,4 @@
-# Vinit Shahdeo — Interactive CLI Portfolio 🚀
-
-```bash
-npx vinitshahdeo
-```
+# Vinit Shahdeo — Interactive CLI Portfolio | `npx vinitshahdeo`
 
 **An interactive, delightful CLI experience to explore my digital world—right from your terminal! 🚀**
 
