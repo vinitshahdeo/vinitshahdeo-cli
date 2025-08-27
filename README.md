@@ -3,6 +3,8 @@
 An interactive, delightful CLI experience to explore my digital world—right from your terminal! 🚀
 Enjoy a vibrant animated banner, a dynamic profile card, and instant access to all my key links. Whether you’re in a fancy terminal or a CI pipeline, you’ll get smart fallbacks and shortcuts for a seamless journey.
 
+![./assets/vinitshahdeo-cli-demo.gif]
+
 ```bash
 npx vinitshahdeo
 ```
