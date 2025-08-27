@@ -20,11 +20,9 @@
     "cli",
     "terminal",
     "interactive",
-    "inquirer",
-    "chalk",
-    "ora",
+    "cli-portfolio",
     "developer-portfolio",
-    "vinit-shahdeo"
+    "vinitshahdeo"
   ],
   "author": {
     "name": "Vinit Shahdeo",
