@@ -10,13 +10,13 @@
 </div>
 
 
-## 🔧 Requirements
+## Requirements
 
 - **Node.js 18+**
 - A terminal that supports Unicode for best results (emoji/box drawing)
 
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Run without installing
 ```bash
@@ -33,8 +33,6 @@ The global binary is exposed as `vinitshahdeo` and now you can run as a command:
 ```bash
 vinitshahdeo
 ```
-
-
 
 ### 🧭 Usage
 
